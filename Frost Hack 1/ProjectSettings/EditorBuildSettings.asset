@@ -20,6 +20,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Sample-UI.unity
     guid: 667204709bc09004ab0a0a8173277c7b
+  - enabled: 1
+    path: Assets/Scenes/Meditation Chamber.unity
+    guid: b1537d3293952904e85a50b517502b1a
   m_configObjects:
     com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: 1ba52bbe7cded0844aa5edc328d9aad2,
       type: 2}

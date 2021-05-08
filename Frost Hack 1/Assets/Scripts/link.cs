@@ -25,11 +25,11 @@ public class link : MonoBehaviour
     }
     public void github_harshita()
     {
-        Application.OpenURL("http://www.linkedin.com/in/harshita-jain-bb5035203");
+        Application.OpenURL("https://github.com/harshitajain165");
     }
     public void linkedin_harshita()
     {
-        Application.OpenURL("https://github.com/harshitajain165");
+        Application.OpenURL("http://www.linkedin.com/in/harshita-jain-bb5035203");
     }
 
     //to load scene or for back button
