@@ -11,7 +11,7 @@ public class PlaceMeditationChamber : MonoBehaviour
 
     public GameObject Chamber;
 
-    //private GameObject spawnedDog;
+    
     private ARRaycastManager arRaycastManger;
     private Vector2 touchPosition;
 
