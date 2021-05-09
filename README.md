@@ -1,12 +1,12 @@
 # Frosthack
 This repository has been created for project 'Hriday'. Hriday embarks on the theme of mental health awareness and comprises an AR companion and an AR meditation chamber.
-##Instructions
+## Instructions
 Install the apk and enter the virtual pet mode.
 Focus the camera at a flat surface for a couple of seconds till an AR pet dog appears.
 Use the buttons to witness the manouvres performed by the AR companion.
 Enter the 'reverie' mode to witness the meditation chamber.
 
-##Dependencies
+## Dependencies
 {
   "dependencies": {
     "com.unity.collab-proxy": "1.2.16",
