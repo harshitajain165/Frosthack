@@ -52,3 +52,7 @@ Enter the 'reverie' mode to witness the meditation chamber.
   }
 }
 
+## Credits
+NatureStarterKit 2 from Unity Asset Store
+Voice Plugin- speechtotext.unitypackage
+
