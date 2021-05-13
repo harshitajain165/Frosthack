@@ -4,7 +4,7 @@ This repository has been created for project 'Hriday'. Hriday embarks on the the
 Install the apk and enter the virtual pet mode. Link for apk:https://drive.google.com/drive/folders/1Vnn6kihcy8O0Ro7-fbzNBv2CD_3QmH2W?usp=sharing
 Focus the camera at a flat surface for a couple of seconds. Click on the surface with two fingers and drag forth till the AR pet dog appears.
 Use the buttons to witness the manouvres performed by the AR companion.
-Enter the 'reverie' mode to witness the meditation chamber.(We have not added Android dependencied for this mode yet as we wish to get it executed with a Hololens which is why it might not work on Android as of now.)
+Enter the 'reverie' mode to witness the meditation chamber.(We have not added Android dependencied for this mode yet as we wish to get it executed with a Hololens which is why it might not work on Android as of now).
 
 ## Dependencies
 {
