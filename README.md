@@ -17,10 +17,10 @@ This repository has been created for project 'Hriday'. Hriday embarks on the the
 📷  Gallery 📷
 </h2>
 <div align ="center">
-<img src="https://user-images.githubusercontent.com/77115160/131607414-975727ae-068e-49fc-b1af-1fceba4c8e67.jpeg" width="300" height="590">
-<img src="https://user-images.githubusercontent.com/77115160/131607445-8810541a-8a19-42f4-b70f-a63a26180722.jpeg" width="300" height="590">
-<img src="https://user-images.githubusercontent.com/77115160/131607871-62b773c5-2ec0-49b4-9249-20852ff94af8.jpeg" width="300" height="590">
-<img src="https://user-images.githubusercontent.com/77115160/131608021-d099e824-9d9e-4547-808f-30dec1cbfc92.png" width="900" height="550">
+<img src="https://user-images.githubusercontent.com/77115160/131607414-975727ae-068e-49fc-b1af-1fceba4c8e67.jpeg" width="250" height="490">
+<img src="https://user-images.githubusercontent.com/77115160/131607445-8810541a-8a19-42f4-b70f-a63a26180722.jpeg" width="250" height="490">
+<img src="https://user-images.githubusercontent.com/77115160/131607871-62b773c5-2ec0-49b4-9249-20852ff94af8.jpeg" width="250" height="490">
+<img src="https://user-images.githubusercontent.com/77115160/131608021-d099e824-9d9e-4547-808f-30dec1cbfc92.png" width="800" height="450">
 </div>   
 
 <br />
